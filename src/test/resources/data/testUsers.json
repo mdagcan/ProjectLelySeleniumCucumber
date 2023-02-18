@@ -1,0 +1,10 @@
+{
+  "newUserInformation": {
+    "USER-1": {
+      "name": "test_mustafa",
+      "email": "mustafa001@gmail.com",
+      "gender": "male",
+      "status": "active"
+    }
+  }
+}
